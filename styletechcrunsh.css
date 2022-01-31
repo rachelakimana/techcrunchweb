@@ -1,0 +1,117 @@
+* {
+box-sizing: border-box;
+}
+.navbar2{
+float: left;
+position:fixed;
+left:0;
+ width: 12%;
+ margin-top: 20px;
+ margin-left:20px;         
+}
+.navbar2 a {
+text-decoration: none;
+font-size:20px;
+color:black;
+opacity: 0.5;
+}
+.content-container {
+overflow: auto;
+width: 35%;
+float: left;
+margin-left: 15%;
+}
+
+/* .maincontent-image {
+overflow:auto;
+ background-color: rgb(36, 48, 58);
+ 
+} */
+.maincontent-image img{
+           
+}
+.main-content {
+float:left; 
+width:35%;
+margin-top: 0px;
+margin-left: 20px;
+
+       
+}
+.main-content a {
+text-decoration: none;
+color: black;          
+}
+
+.main-content div {
+border-top: 1px solid rgba(94, 92, 92, 0.3);           
+}
+
+#the-latest {
+clear: both;
+ margin-left:15%;               
+}
+
+.athleticcontainer,
+.ebaycontainer,
+.nabscontainer {
+    margin-left:15%;
+    clear:both;
+    width:70%;
+    border-top: 1px solid rgba(94, 92, 92, 0.3); 
+           
+}
+.athletich1,
+.athleticp,
+.athleticimg,
+.ebayh1,
+.ebayp,
+.nabsh1,
+.nabsp,
+.nabsimg,
+.ebayimg{
+width: 30%;
+float: left;
+
+}
+.athleticp {
+}
+.athleticimg {
+}
+
+.ebaycontainer {
+          
+}
+.ebayh1{
+                
+}
+.ebayp{
+                
+}
+.ebayimg{
+                
+}
+
+.nabscontainer {
+           
+}
+.nabsh1{
+                
+}
+
+.nabsp{
+                
+}
+
+.nabsimg{
+                
+}
+
+                
+
+
+
+
+
+
+
